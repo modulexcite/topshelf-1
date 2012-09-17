@@ -1,0 +1,9 @@
+E:\Projects\AspNet\topshelf\topShelfSample\topShelfSample\bin\Debug\topShelfSample.exe
+E:\Projects\AspNet\topshelf\topShelfSample\topShelfSample\bin\Debug\topShelfSample.pdb
+E:\Projects\AspNet\topshelf\topShelfSample\topShelfSample\bin\Debug\Topshelf.dll
+E:\Projects\AspNet\topshelf\topShelfSample\topShelfSample\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\AspNet\topshelf\topShelfSample\topShelfSample\obj\x86\Debug\topShelfSample.exe
+E:\Projects\AspNet\topshelf\topShelfSample\topShelfSample\obj\x86\Debug\topShelfSample.pdb
+E:\Projects\AspNet\topshelf\topShelfSample\topShelfSample\bin\Debug\log4net.dll
+E:\Projects\AspNet\topshelf\topShelfSample\topShelfSample\bin\Debug\Topshelf.Log4Net.dll
+E:\Projects\AspNet\topshelf\topShelfSample\topShelfSample\bin\Debug\log4net.xml
